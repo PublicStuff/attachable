@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "attachable.gemspec",
     "lib/attachable.rb",
     "lib/attachable/attachable.rb",
     "test/helper.rb",
