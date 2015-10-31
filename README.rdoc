@@ -1,6 +1,6 @@
 = attachable
 
-Description goes here.
+This gems allows for polymorphic attachments so you can drop the module into any model and go
 
 == Contributing to attachable
  

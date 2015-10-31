@@ -15,10 +15,10 @@ require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://guides.rubygems.org/specification-reference/ for more options
   gem.name = "attachable"
-  gem.homepage = "http://github.com/mserran2/attachable"
+  gem.homepage = "http://github.com/publicstuff/attachable"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Adds attachment functionality to all your models}
+  gem.description = %Q{This gems allows for polymorphic attachments so you can drop the module into any model and go}
   gem.email = "mark@publicstuff.com"
   gem.authors = ["Mark Serrano"]
   # dependencies defined in Gemfile
